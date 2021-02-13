@@ -1,0 +1,15 @@
+.Pokecard {
+  border: 1px solid black;
+  width: fit-content;
+  border-radius: 8px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin: 16px;
+}
+
+.Pokecard:hover {
+  transform: scale(1.05);
+}
+.Pokecard-img {
+  width: 200px;
+  margin: 24px;
+}
