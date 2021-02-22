@@ -1,0 +1,10 @@
+.Coin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Coin img {
+  width: 100px;
+  height: 100px;
+}
