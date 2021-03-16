@@ -1,0 +1,10 @@
+.TodoList {
+  background-color: white;
+  margin: 40px;
+  padding: 40px;
+  border-radius: 8px;
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+  box-shadow: 50px 50px 35px #3b6177, -50px -50px 35px #89e1ff;
+}
