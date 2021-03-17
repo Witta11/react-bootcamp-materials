@@ -1,3 +1,15 @@
 .completed {
   text-decoration: line-through;
 }
+
+button {
+  background: white;
+  border: none;
+  color: darkblue;
+}
+
+.Tasks {
+  display: flex;
+  list-style-type: none;
+  margin: 16px;
+}

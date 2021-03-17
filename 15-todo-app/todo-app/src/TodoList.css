@@ -8,3 +8,7 @@
   border-radius: 25px;
   box-shadow: 50px 50px 35px #3b6177, -50px -50px 35px #89e1ff;
 }
+
+.TodoList-Header {
+  text-align: center;
+}
